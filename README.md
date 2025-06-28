@@ -36,7 +36,7 @@ Vanilla JavaScript
 
 📷 Screenshots
 
-<img src="./assets/IMAGES/clock.gif" height="100%" width="auto" alt="E303">
+<img src="clockimages.png" height="100%" width="auto" alt="E303">
 
 
 ---
